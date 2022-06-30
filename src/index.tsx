@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import './01-ts基础/01-基本类型'
 ReactDOM.render(
   // <React.StrictMode>
     <App />,
