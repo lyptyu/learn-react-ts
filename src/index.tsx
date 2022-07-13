@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './05-redux/App';
+import App from './06-antdmobile/App';
 import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   // <React.StrictMode>
